@@ -7,7 +7,7 @@ tags: bluehats
 
 ## Bluehats Semester of Code : appel à idées !
 
-**Vous portez un logiciel libre ?  Nous apportons un stagiaire !**
+**Vous portez un logiciel libre ? Nous amenons un stagiaire !**
 
 Le pôle logiciels libres lance [un appel à idées](https://communs.numerique.gouv.fr/bluehats/bluehats-semester-of-code/) auprès des administrations, des entreprises et des collectifs : jusqu'au **6 mars 23h59**, proposez votre idée de contribution à un logiciel libre que vous développez et un·e étudiant·e de CentraleSupélec la choisira peut-être en rejoignant la première promotion *BlueHats Semester of Code* pour un stage de septembre 2022 à février 2023.
 
@@ -25,7 +25,7 @@ Le pôle logiciels libres lance [un appel à idées](https://communs.numerique.g
 
 La mission interministérielle « numérique écoresponsable » propose une sélection de logiciels libres et open source dédiés à la mesure des impacts environnementaux du numérique.
 
-Une dizaine d'outils couvrent un ensemble de domaine comme la mesure de l'empreinte d'une page web, le coût d'un algorithme ou même l'empreinte environnementale du Cloud ou du parc informatique.
+Une dizaine d'outils couvrent un ensemble de domaines comme la mesure de l'empreinte d'une page web, le coût d'un algorithme ou même l'empreinte environnementale du Cloud ou du parc informatique.
 
 `>>` Découvrir la [Boîte à outils numérique écoresponsable](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/)
 
@@ -67,7 +67,7 @@ Nous avons participé à l'[Open Source Policy Summit 2022](https://summit.openf
 
 Retrouvez aussi l'allocution [vidéo](https://www.youtube.com/watch?v=Rr-QcKqhoI8) de la ministre de Transformation et de la Fonction publiques Amélie de Montchalin lors de cet événement.
 
-Nous avons participé au [FOSDEM 2022](https://fosdem.org/2022/) avec deux interventions : *We listed +9000 public code repositories. Now what?* ([vidéo](https://dai.ly/x87r20r)) et *What is special about open source research software and why does it matters?* ([vidéo](https://dai.ly/x87r1wo)).
+Nous avons participé au [FOSDEM 2022](https://fosdem.org/2022/) avec deux interventions : *We listed +9000 public code repositories. Now what?* ([vidéo](https://dai.ly/x87r20r)) et *What is special about open source research software and why does it matter?* ([vidéo](https://dai.ly/x87r1wo)).
 
 Retrouvez nos autres interventions sur la [page dédiée de notre wiki](https://man.sr.ht/~etalab/logiciels-libres/ressources.md).
 
@@ -76,8 +76,8 @@ Retrouvez nos autres interventions sur la [page dédiée de notre wiki](https://
 
 - [[Dossier] Les logiciels libres et open source en France : où en sommes-nous ?](https://labo.societenumerique.gouv.fr/2022/01/27/dossier-les-logiciels-libres-et-open-source-en-france-ou-en-sommes-nous/), labo.societenumerique.gouv.fr, Janvier 2022.
 - Retrouvez un entretien avec Bastien Guerry dans le numéro d'[IGN Magazine (hiver 2022 - PDF)](https://www.ign.fr/publications-de-l-ign/institut/kiosque/publications/IGN_Magazine/105/ign_mag_105.pdf) ainsi qu'une rubrique « Les logiciels libres, des atouts pour la recherche et l’enseignement »
-- Un [article sur linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6887744635700097024/) de Valentin Olive avec un retour sur la rencontre sur les enjeux du logiciel libre dans la recherche du 14 janvier.
-- L'école CentraleSupélec évoque son partenariat avec la DINUM pour le BlueHats Semester of Code [sur son site](https://www.linkedin.com/posts/centralesupelec_d%C3%A9veloppement-de-logiciels-libres-lancez-vous-activity-6897829796701724672-QR7u/) et [ce post linkedin](https://www.centralesupelec.fr/fr/lancez-vous-dans-le-logiciel-libre-avec-centralesupelec-et-etalab).
+- Un [article sur LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6887744635700097024/) de Valentin Olive avec un retour sur la rencontre sur les enjeux du logiciel libre dans la recherche du 14 janvier.
+- L'école CentraleSupélec évoque son partenariat avec la DINUM pour le BlueHats Semester of Code [sur son site](https://www.linkedin.com/posts/centralesupelec_d%C3%A9veloppement-de-logiciels-libres-lancez-vous-activity-6897829796701724672-QR7u/) et [ce post LinkedIn](https://www.centralesupelec.fr/fr/lancez-vous-dans-le-logiciel-libre-avec-centralesupelec-et-etalab).
 - [La gazette du cloud de janvier 2022](https://news.gandi.net/fr/nl/la-gazette-du-cloud-janvier-22/) publiée par gandi.net mentionne l'argumentaire du pôle logiciels libres où nous expliquons [pourquoi nous utilisons SourceHut](https://man.sr.ht/~etalab/logiciels-libres/pourquoi-sourcehut.md) pour publier une partie de nos codes sources.
 
 ### En France
